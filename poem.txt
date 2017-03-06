@@ -5,6 +5,7 @@ orange
 blue
 green
 yellow
+indigo
 unicorn
 red
 This is my rainbow and the unicorn
