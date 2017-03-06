@@ -6,6 +6,7 @@ blue
 green
 yellow
 indigo
+Recycle
 unicorn
 red
 This is my rainbow and the unicorn, pony
