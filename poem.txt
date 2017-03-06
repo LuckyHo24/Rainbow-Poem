@@ -4,5 +4,6 @@ pink
 orange
 blue
 green
+yellow
 red
 This is my rainbow
